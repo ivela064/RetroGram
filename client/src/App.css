@@ -1,0 +1,18 @@
+.page-title {
+  display: block !important;
+  text-align: center;
+  font-size: 2rem;
+  margin-top: 35px;
+  color:#a443e4;
+}
+
+.form-container {
+  width: 400px;
+  margin: auto;
+  color:#a443e4;
+}
+
+.ui.teal.button:focus,
+.ui.teal.buttons .button:focus {
+  background-color: #bc57ff;
+}
